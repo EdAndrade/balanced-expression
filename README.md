@@ -8,9 +8,10 @@
 
 ## :computer: Como executar
 
+Clone o repositório
+
 ```bash
-# Clone o repositório
-$ git clone https://github.com/EdAndrade/balanced-expression
+git clone https://github.com/EdAndrade/balanced-expression
 ```
 
 Se tiver o Nodejs instalado na máquina, no local onde estiver o arquivo exe.js, execute o seguinte código no terminal:
